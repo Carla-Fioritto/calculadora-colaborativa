@@ -12,9 +12,11 @@ El proyecto consiste en una calculadora básica desarrollada en Python, utilizad
 ## Funcionalidades
 La aplicación permite:
 
-- Mostrar un menú interactivo
-- Realizar sumas entre dos números
-- Salir del programa desde consola
+- Mostrar un menú interactivo.
+- Realizar sumas entre dos números.
+- Realizar resta entre dos números.
+- Realizar multiplicaciones entre dos numeros.
+- Salir del programa desde consola.
 
 ## Cómo ejecutar
 
@@ -27,8 +29,9 @@ python calculadora.py
 
 o también:
 
-bash
-py calculadora.py
+```bash
+python calculadora.py
+```
 
 
 ### En Linux o MacOS
@@ -47,3 +50,7 @@ python3 calculadora.py
 - Git
 - GitHub
 - Python 3
+
+## Autores
+- Carla Fioritto — [@Carla-Fioritto](https://github.com/Carla-Fioritto)
+- Fausto Ottino — [@faausto](https://github.com/faausto)
